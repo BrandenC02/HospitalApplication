@@ -5,7 +5,7 @@ namespace Hospital
     {
         //Attributes
         string name, phone, insurance, condition;
-        int SSN, Rooomnumber;
+        int SSN;
 
         //Constructor
         public Patient(string name, string phone, string insurance, string condition, int SSN)
@@ -15,7 +15,6 @@ namespace Hospital
             setInsurance(insurance);
             setCondition(condition);
             setSSN(SSN);
-            setRoomNumber();
         }
 
         //Method to display patient information
@@ -26,7 +25,6 @@ namespace Hospital
             Console.WriteLine("Patient Insurance: " + getInsurance());
             Console.WriteLine("Patient Condition: " + getCondition());
             Console.WriteLine("Patient SSN: " + getSSN());
-            Console.WriteLine("Patient Room Number: " + getRoomNumber());
         }
 
 
@@ -72,15 +70,7 @@ namespace Hospital
         {
             this.SSN = SSN;
         }
-        public int getRoomNumber()
-        {
-            return Rooomnumber;
-        }
-        public void setRoomNumber()
-        {
-            Random random = new Random();
-            Rooomnumber = random.Next(100, 999);
-        }
+        
 
     }
 }
