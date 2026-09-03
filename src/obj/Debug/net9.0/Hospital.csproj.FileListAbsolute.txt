@@ -1,0 +1,14 @@
+d:\programming projects\Hospital\src\bin\Debug\net9.0\Hospital.exe
+d:\programming projects\Hospital\src\bin\Debug\net9.0\Hospital.deps.json
+d:\programming projects\Hospital\src\bin\Debug\net9.0\Hospital.runtimeconfig.json
+d:\programming projects\Hospital\src\bin\Debug\net9.0\Hospital.dll
+d:\programming projects\Hospital\src\bin\Debug\net9.0\Hospital.pdb
+d:\programming projects\Hospital\src\obj\Debug\net9.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+d:\programming projects\Hospital\src\obj\Debug\net9.0\Hospital.AssemblyInfoInputs.cache
+d:\programming projects\Hospital\src\obj\Debug\net9.0\Hospital.AssemblyInfo.cs
+d:\programming projects\Hospital\src\obj\Debug\net9.0\Hospital.csproj.CoreCompileInputs.cache
+d:\programming projects\Hospital\src\obj\Debug\net9.0\Hospital.dll
+d:\programming projects\Hospital\src\obj\Debug\net9.0\refint\Hospital.dll
+d:\programming projects\Hospital\src\obj\Debug\net9.0\Hospital.pdb
+d:\programming projects\Hospital\src\obj\Debug\net9.0\Hospital.genruntimeconfig.cache
+d:\programming projects\Hospital\src\obj\Debug\net9.0\ref\Hospital.dll
